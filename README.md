@@ -16,6 +16,7 @@ To design and implement a low-cost ultrasonic levitation system for contactless 
 ## Working Principle
 Two ultrasonic transducers generate acoustic standing waves. Pressure nodes formed between waves trap small particles causing levitation.
 
+##Code
 Available in `/code` folder.
 
 ## Applications
